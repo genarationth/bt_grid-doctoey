@@ -1,15 +1,14 @@
 /* mobile */
 @media only screen and (min-width:320px) and (max-width:767px){
+
     .mobile{
         display: none;
     }
-    .col-sm-12{
-        gap:2rem;
-    }
-        /* tablet */
+}
+ /* tablet */
 @media only screen and (min-width:768px) and (max-width:1023px){
+
     .tablet{
         display: none;
     }
-    
 }
